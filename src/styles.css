@@ -1,0 +1,9 @@
+body {
+padding-top: 70px; /* espacio para la navbar fixed */
+}
+.profile-placeholder {
+background: linear-gradient(135deg, rgba(255,255,255,0.12), rgba(0,0,0,0.05));
+}
+
+
+/* Ajustes estéticos adicionales */
