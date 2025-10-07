@@ -2,6 +2,7 @@
   "name": "portfolio-react-bootstrap",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -17,3 +18,4 @@
     "@vitejs/plugin-react": "^5.0.4"
   }
 }
+
